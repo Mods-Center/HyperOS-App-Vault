@@ -11,8 +11,8 @@ HyperOS App Vault modified by [Kashi](https://t.me/kakashi1v1).
 - Enjoy!
 
 ### Changelog
-- Included blur in -1 screen by default for A13+ Roms.
-- Introduced a server switch to get translated widgets.
+- Added modification for blur adjustment.
+- Introduced a switch to enable scrolling animation
 - Unlocked widgets and features of high-end devices.
 - Thanks to Xiaomi.eu for base app
 
