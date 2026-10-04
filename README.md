@@ -1,5 +1,6 @@
-# HyperOS App Vault V4.5
-<img width="2171" height="1220" alt="Picsart_26-08-10_20-09-48-271" src="https://github.com/user-attachments/assets/7ddf049e-4b7d-4e8c-a0ce-166f24003e59" />
+# HyperOS App Vault V5
+<img width="2171" height="1220" alt="Picsart_26-10-04_10-41-42-348" src="https://github.com/user-attachments/assets/09244c6c-83ee-4935-92e0-b75fb9dc0db0" />
+
 
 
 
@@ -18,7 +19,6 @@ HyperOS App Vault modified by [Kashi](https://t.me/kakashi1v1).
 - Enabled glassy blur background for stock widgets
 - Introduced a switch to spoof device as high end one.
 - Unlocked widgets and features of high-end devices
-- Thanks to Xiaomi.eu for base app
 
 ### Note
 - Users with Global/CN ROMs based on Android 14 or above are required to flash this [Apk Protection Patch](https://github.com/Mods-Center/Apk-Protection-Patch) module first.
