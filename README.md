@@ -13,31 +13,31 @@
 
 </div>
 
-## ✨ Features
+## Features
 - Unlocks the widgets and features of high-end devices, with a switch that spoofs a high-end device (HyperOS 3 supported)
 - Translates all online widgets into your language in real time
 - Glassy blur background for stock widgets, with adjustable blur
 - Higher limit on widgets that can be added to the home screen
 - Scrolling animations
 
-## 📋 Requirements
+## Requirements
 - HyperOS
 - Magisk, KernelSU or APatch
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/HyperOS-App-Vault/releases/latest).
 2. Flash it in Magisk, KernelSU or APatch.
 3. Reboot your device.
 
-## ⚠️ Notes
+## Notes
 - Global/CN ROMs on Android 14 or newer: flash [Apk Protection Patch](https://github.com/Mods-Center/Apk-Protection-Patch) first.
 
 ---
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/HyperOS-App-Vault/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/HyperOS-App-Vault/issues)
 
 </div>
